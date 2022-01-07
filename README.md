@@ -20,6 +20,14 @@ Administrator
 UserName:  admin@localhost.com  
 Password: P@ssword1 
 
+
+How to use:
+
+1. Sign in as Employee to send request, make sure you have enough available day(s)    
+2. Sign in as Manager to Approve/Reject, or even Revert a request. As manager you can also send vacation request to your boss.  
+3. Sign in as Admin to view all the requests and explore Employee List feature, as well as update Stat Holiday and more  
+
+
 Demo Pics:
 
 Login  Page  
