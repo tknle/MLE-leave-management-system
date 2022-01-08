@@ -1,7 +1,7 @@
 # MLE-leave-management-system
 
 This is a demo of my web app using C#, .NET Framework, Azure Services, Azure Database and App  
-Allow employees to send vacation request, get approved by managers and finally add to HR's data to revise at the end of the year.  
+Allow employees to send vacation request, get approved by managers and finally add to HR's data.  
 (I cannot provide code for this app publicly. If you want to view the partial code please send me an email)  
 
 Demo Website: https://leave-management20211113232243.azurewebsites.net/  
